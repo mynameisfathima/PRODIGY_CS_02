@@ -1,1 +1,1 @@
-# PRODIGY_CS_02
+Pixel manupilation for image encryption
